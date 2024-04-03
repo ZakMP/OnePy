@@ -1,3 +1,1 @@
-import window
 
-root = window
